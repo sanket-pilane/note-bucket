@@ -49,9 +49,9 @@ NoteBucket is a simple Flutter application for taking and managing notes. It all
 
 1. Open the NoteBucket app on your device.
 2. To create a new note, click the "Add Note" button.
-3. Enter your note text and click the "Save" button.
+3. Enter your note text and it will "Auto Save it".
 4. Your note will be saved locally.
-5. To delete a note, swipe left on the note and click the "Delete" button.
+5. To delete a note,Simply opent he noe and click on delete icon.
 
 
 ## Contributing
