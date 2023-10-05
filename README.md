@@ -1,16 +1,6 @@
-# note_buckets
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Write note](https://github.com/sanket-pilane/note-bucket/assets/140826056/80d4fa1d-4459-46d8-bd50-42f4890acbf0)
+![List View](https://github.com/sanket-pilane/note-bucket/assets/140826056/9b46fe23-b0c6-411b-a7fc-8b46d6716ca4)
+![home page](https://github.com/sanket-pilane/note-bucket/assets/140826056/035f738f-1717-4e02-a157-aae11b395dd0)
+![Grid View](https://github.com/sanket-pilane/note-bucket/assets/140826056/9d20ee40-7d5c-4139-9056-1ba1d2e3d140)
+![Delete page](https://github.com/sanket-pilane/note-bucket/assets/140826056/4b7dbd66-647c-4334-8cdc-0d8003e1e9bd)
+![db](https://github.com/sanket-pilane/note-bucket/assets/140826056/1b573f80-cddf-469e-bb5c-bbece7fdba7c)

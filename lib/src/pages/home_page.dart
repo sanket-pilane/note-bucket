@@ -5,6 +5,7 @@ import 'package:note_buckets/src/pages/note_page.dart';
 import 'package:note_buckets/src/res/string.dart';
 import 'package:note_buckets/src/services/local_db.dart';
 import 'package:note_buckets/src/widgets/empty_view.dart';
+
 import 'package:note_buckets/src/widgets/note_grid.dart';
 import 'package:note_buckets/src/widgets/note_list.dart';
 
@@ -64,7 +65,7 @@ class _HomePageState extends State<HomePage> {
                   stream: LocalDBService().listenAllNotes(),
                   builder: (context, snapshot) {
                     if (snapshot.data == null) {
-                      return const EmptyView();
+                      return EmptyView();
                     }
                     final notes = snapshot.data;
 
