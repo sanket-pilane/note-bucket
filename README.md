@@ -3,7 +3,7 @@
 
 
 # NoteBucket - Flutter Note Taking App
-
+changes
 NoteBucket is a simple Flutter application for taking and managing notes. It allows users to create and delete notes, and it utilizes local storage to save the notes using the Isar dependency. The app also includes animated GIFs for a visually appealing experience, powered by the Lottie dependency.
 
 ## Project Preview
